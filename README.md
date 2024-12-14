@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srivastava-diya
-- 👀 I’m interested in knowing about PYython ,JavaScript, C++, C# , Web3 and different emerging technologies.
+- 👀 I’m interested in knowing about Python ,JavaScript, C++, C# , Web3 and different emerging technologies.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects
 - 😄 Pronouns: she/her
