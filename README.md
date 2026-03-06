@@ -2,4 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srivastava-diya" alt="Diya Srivastava" />
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srivastava-diya&theme=dark-minimalist" alt="GitHub Streak" /></a>
 </p>
